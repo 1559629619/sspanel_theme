@@ -5,6 +5,8 @@
 基于  ss-panel-v3-mod  (项目源地址https://github.com/NimaQu/ss-panel-v3-mod_Uim)
 样式简单修改~
 
+提供远程支持，请tg私聊 QGhlbGxva2l0dHlv
+
 如何使用：!!!(操作前，请务必备份原有代码。然后请仔细查看本码里的内容，挑选 "覆盖")
 
 1.下载文件解压
